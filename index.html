@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wisdom & Wanderlust: Learn and Grow</title>
     <meta name="description" content="A concise and informative description of your blog's content. Make it engaging and relevant to encourage clicks from search engine results.">
@@ -18,10 +19,26 @@
         <div class = "container">
           <a href = "index.html" class = "navbar-brand">Journey through words. </a>
           <div class = "navbar-nav">
-            <a href = "#banner">Candids</a>
-            <a href = "#design">Blogs</a>
-            <a href = "#blog">About</a>
+            <a href = "#design">Candids</a>
+            <a href = "#blog">Blogs</a>
+            <a href = "#about">About</a>
             <a href = "#social-links">Social</a>
+          </div>
+        </div>
+      </nav>
+      <nav id="hamburger-nav">
+        <div class="logo">Abhishek Chandel</div>
+        <div class="hamburger-menu">
+          <div class="hamburger-icon" onclick="toggleMenu()">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <div class="menu-links">
+            <li><a href="#design" onclick="toggleMenu()">Candids</a></li>
+            <li><a href="#blog" onclick="toggleMenu()">Blogs</a></li>
+            <li><a href="#about" onclick="toggleMenu()">About</a></li>
+            <li><a href="#social-links" onclick="toggleMenu()">Social</a></li>
           </div>
         </div>
       </nav>
