@@ -85,7 +85,7 @@ header{
     color:  #96c0ce;
 }
 .banner p{
-    padding: 1rem 0 2rem 0;
+    padding: 1rem 0 13rem 0;
     font-size: 1.2rem;
     text-transform: capitalize;
     font-family: var(--Roboto);
@@ -466,5 +466,8 @@ footer{
     color: #fefdfd;
     padding: 0.6rem 0.8rem;
     transition: all 0.5s ease;
-}
-
+} 
+mark {
+    background-color: #96c0ce;
+    color: black;
+  }
