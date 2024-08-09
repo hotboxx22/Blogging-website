@@ -472,3 +472,51 @@ mark {
     background-color: #96c0ce;
     color: black;
   }
+  #more9 {display: none;}
+#myBtn9 {
+    font-family: var(--Roboto);
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: var(--dark);
+    display: inline-block;
+    background: var(--dark);
+    color: #fefdfd;
+    padding: 0.6rem 0.8rem;
+    transition: all 0.5s ease;
+} 
+mark {
+    background-color: #96c0ce;
+    color: black;
+  }
+  #more10 {display: none;}
+#myBtn10 {
+    font-family: var(--Roboto);
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: var(--dark);
+    display: inline-block;
+    background: var(--dark);
+    color: #fefdfd;
+    padding: 0.6rem 0.8rem;
+    transition: all 0.5s ease;
+} 
+mark {
+    background-color: #96c0ce;
+    color: black;
+  }
+  #more11 {display: none;}
+#myBtn11 {
+    font-family: var(--Roboto);
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: var(--dark);
+    display: inline-block;
+    background: var(--dark);
+    color: #fefdfd;
+    padding: 0.6rem 0.8rem;
+    transition: all 0.5s ease;
+} 
+mark {
+    background-color: #96c0ce;
+    color: black;
+  }
